@@ -1,0 +1,38 @@
+# Arquivos gerados pela IDEs
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+# Arquivos e diretórios de compilação
+target/
+build/
+**/src/main/**/target/
+**/src/test/**/target/
+
+# Arquivos específicos
+HELP.md
+application.properties
+
+# Arquivos do Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
