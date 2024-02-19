@@ -1,4 +1,4 @@
-# API de Produtos usando Spring Boot 3
+# API de Produtos usando Spring Boot 3.2.2
 Este é um curso prático que demonstra como construir uma API de produtos utilizando Spring Boot 3 e outras tecnologias do ecossistema Spring, além de MySQL para persistência de dados e Postman para testes de API.
 
 ## Tecnologias Utilizadas
@@ -14,7 +14,7 @@ Este é um curso prático que demonstra como construir uma API de produtos utili
 ## Configuração e Execução
 ### 1. Clone este repositório para o seu ambiente local:
 
-```git clone https://github.com/seu-usuario/api-produtos-spring-boot-3.git```
+```git clone https://github.com/tavinhoo/products-api.git```
 
 ### 2. Importe o projeto em sua IDE de preferência (como IntelliJ IDEA, Eclipse, etc.).
 
