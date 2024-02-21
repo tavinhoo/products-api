@@ -24,4 +24,8 @@ public class ProductModel extends RepresentationModel<ProductModel> implements S
     private UUID idProduct;
     private String name;
     private BigDecimal value;
+
+    @ManyToOne
+    @JoinColumn(name = "id_category")
+    private CategoryModel category;
 }
